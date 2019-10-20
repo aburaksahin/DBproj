@@ -7,4 +7,4 @@ Arda Gültekin     - 21401142
 
 # Documents
 
-[Proposal](%base_url%/documents/Proposal.pdf)
+[Proposal](./documents/Proposal.pdf)
